@@ -1,3 +1,3 @@
-# Tabela de Usuários com MySQL
+# Tabela de Usuários com JavaServer Faces e MySQL
 
-Criando uma Tabela de Usuários na web de 3 páginas interativas com banco de dados MySQL utilizando o Framework Java Server Faces + XHTML + CSS no NetBeans
+Aplicação Java para Web de uma lista de usuários que tem a funcionalidade de se conectar com banco de dados e realizar o CRUD corretamente. Usando JavaServer Faces Framework e MySQL. Projeto feito no NetBeans.
